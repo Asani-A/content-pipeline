@@ -1,0 +1,35 @@
+{
+  "input_id": "test_002_transfer_news",
+  "processed_at": "2026-02-19T14:26:05.025685",
+  "content_type": "transfer_news",
+  "classification": {
+    "content_type": "transfer_news",
+    "confidence": 0.98,
+    "reasoning": "The content is clearly about a player transfer - James Smith being traded from Brooklyn Nets to Los Angeles Lakers. It includes key transfer details like contract terms ($85 million, 4 years), what the Nets received in return (draft picks and Dennis Johnson), and quotes from the GM about the signing. This perfectly fits the transfer_news category."
+  },
+  "metadata": {
+    "teams": [
+      "Los Angeles Lakers",
+      "Brooklyn Nets"
+    ],
+    "players": [
+      "James Smith",
+      "Dennis Johnson"
+    ],
+    "competition": null,
+    "sentiment": "positive",
+    "key_stats": {
+      "transfer_fee": "$85 million",
+      "contract_length": "4 years",
+      "previous_club": "Brooklyn Nets",
+      "new_club": "Los Angeles Lakers"
+    }
+  },
+  "headlines": {
+    "neutral": "Lakers acquire point guard James Smith from Nets in $85M deal",
+    "fan_oriented": "Lakers land elite playmaker Smith in blockbuster trade!",
+    "casual_viewer": "Lakers complete major mid-season signing of All-Star point guard James Smith from Brooklyn"
+  },
+  "original_content": "\nThe Los Angeles Lakers have completed the signing of point guard James Smith \nfrom the Brooklyn Nets in a blockbuster mid-season trade deal. The 27-year-old \njoins the Lakers on a four-year contract worth approximately $85 million. \n\nLakers General Manager Rob Pelinka said: \"James brings exactly what we need - \nelite playmaking and championship experience. He's going to be a perfect fit \nalongside LeBron and AD.\" Smith averaged 18.5 points and 8.2 assists per game \nthis season before the trade.\n\nThe Nets received two first-round draft picks and guard Dennis Johnson in \nreturn. Smith is expected to make his Lakers debut on Tuesday against the \nPhoenix Suns at Crypto.com Arena.\n",
+  "pipeline_version": "1.0"
+}

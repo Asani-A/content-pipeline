@@ -1,0 +1,31 @@
+{
+  "input_id": "test_005_edge_case",
+  "processed_at": "2026-02-19T14:26:36.086113",
+  "content_type": "other",
+  "classification": {
+    "content_type": "other",
+    "confidence": 0.85,
+    "reasoning": "This content reports on a training ground incident and speculates about its implications, but doesn't fit cleanly into the main categories. It's not a match report, not confirmed transfer news (only speculation), not primarily about injury status, and not a structured opinion piece or tactical analysis. It's more of a general news story about club drama."
+  },
+  "metadata": {
+    "teams": [
+      "Manchester United"
+    ],
+    "players": [
+      "Erik ten Hag",
+      "Cristiano Ronaldo"
+    ],
+    "competition": null,
+    "sentiment": "negative",
+    "key_stats": {
+      "summary": "Report of a heated training ground incident between Manchester United manager Erik ten Hag and Cristiano Ronaldo, with speculation about potential January transfer amid reduced playing time and tactical changes"
+    }
+  },
+  "headlines": {
+    "neutral": "Ten Hag and Ronaldo involved in training ground exchange",
+    "fan_oriented": "Ten Hag and Ronaldo clash at Carrington!",
+    "casual_viewer": "Manchester United manager Erik ten Hag and star Cristiano Ronaldo have heated training argument"
+  },
+  "original_content": "\nManchester United Training Ground Incident Raises Questions\n\nFootage emerged yesterday showing a heated exchange between manager Erik ten Hag \nand forward Cristiano Ronaldo during training at Carrington. While the club has \ndownplayed the incident as \"a normal competitive moment,\" sources close to the \nsquad suggest tensions have been building for weeks.\n\nRonaldo, who recently returned from injury, has started just one of United's \nlast five matches. Some analysts speculate this could indicate an imminent \nJanuary transfer, with clubs in Saudi Arabia reportedly interested. However, \nother insiders claim the reduced playing time is purely tactical and related \nto United's recent shift to a more pressing-based system.\n\nThe situation remains fluid, with neither the club nor Ronaldo's representatives \nwilling to comment publicly. Whatever the truth, it's clear that Manchester \nUnited's season could hinge on resolving this uncertainty quickly.\n",
+  "pipeline_version": "1.0"
+}

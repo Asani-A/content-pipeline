@@ -1,0 +1,47 @@
+{
+  "input_id": "test_004_opinion_piece",
+  "processed_at": "2026-02-19T14:26:26.241366",
+  "content_type": "opinion_piece",
+  "classification": {
+    "content_type": "opinion_piece",
+    "confidence": 0.98,
+    "reasoning": "This is clearly an analytical opinion piece that provides editorial commentary on the Lakers' championship prospects. It includes tactical analysis, statistical breakdowns (defensive efficiency, three-point shooting rankings), and the author's subjective assessment of the team's future. The tone is argumentative and analytical rather than factual reporting."
+  },
+  "metadata": {
+    "teams": [
+      "Lakers",
+      "Boston",
+      "Denver"
+    ],
+    "players": [
+      "LeBron James",
+      "Anthony Davis"
+    ],
+    "competition": "NBA",
+    "sentiment": "negative",
+    "key_stats": {
+      "author_stance": "Lakers' championship window is rapidly closing due to aging stars and roster deficiencies",
+      "main_arguments": [
+        "LeBron James is aging (turns 40 next season)",
+        "Anthony Davis has injury concerns (only played 70+ games twice)",
+        "Current roster is not championship-caliber",
+        "Role players are inconsistent and lack reliable third scorer",
+        "Other teams like Boston and Denver have built better rosters",
+        "Lakers continue poor roster management decisions"
+      ],
+      "statistics_cited": [
+        "LeBron James turns 40 next season",
+        "Anthony Davis played 70+ games just twice in career",
+        "Lakers rank 22nd in defensive efficiency",
+        "Lakers rank 18th in three-point shooting"
+      ]
+    }
+  },
+  "headlines": {
+    "neutral": "Analysis: Lakers' Championship Prospects Diminish With Aging Core",
+    "fan_oriented": "Lakers' Title Window Slamming Shut Fast",
+    "casual_viewer": "Why LeBron James and Lakers May Be Running Out of Time for Another Championship"
+  },
+  "original_content": "\nWhy the Lakers' Championship Window Is Closing Faster Than We Think\n\nLeBron James turns 40 next season. Anthony Davis has played 70+ games just \ntwice in his career. The Lakers' championship window isn't just closing - \nit's slamming shut before our eyes, and the front office seems paralyzed \nto act.\n\nLet's be honest: this roster, as currently constructed, is not good enough. \nThe role players are inconsistent at best, and the lack of a reliable third \nscorer is glaring. While teams like Boston and Denver have built deep, \nbalanced rosters, the Lakers continue to mortgage their future for aging \nveterans who may not even make it through a playoff run.\n\nThe analytics paint an even bleaker picture. The Lakers rank 22nd in \ndefensive efficiency and 18th in three-point shooting - two metrics that \nare non-negotiable in today's NBA. Unless dramatic changes are made this \noffseason, we may have already seen the last Lakers championship of the \nLeBron era.\n",
+  "pipeline_version": "1.0"
+}

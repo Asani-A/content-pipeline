@@ -1,0 +1,33 @@
+{
+  "input_id": "test_003_injury_update",
+  "processed_at": "2026-02-19T14:26:14.889264",
+  "content_type": "injury_update",
+  "classification": {
+    "content_type": "injury_update",
+    "confidence": 0.98,
+    "reasoning": "The content is primarily focused on Casemiro's hamstring injury, including details about the injury severity (Grade 2 tear), recovery timeline (8 weeks), surgical procedure, and impact on upcoming matches. While it mentions potential transfer activity, the main subject is the injury update."
+  },
+  "metadata": {
+    "teams": [
+      "Manchester United"
+    ],
+    "players": [
+      "Casemiro"
+    ],
+    "competition": "Premier League",
+    "sentiment": "negative",
+    "key_stats": {
+      "injury_type": "hamstring",
+      "expected_absence": "8 weeks",
+      "matches_to_miss": "unknown",
+      "injury_severity": "moderate"
+    }
+  },
+  "headlines": {
+    "neutral": "Manchester United's Casemiro ruled out for eight weeks with hamstring injury",
+    "fan_oriented": "Devastating blow: Red Devils lose Casemiro for eight weeks",
+    "casual_viewer": "Manchester United midfielder Casemiro faces two-month injury layoff during crucial Premier League period"
+  },
+  "original_content": "\nManchester United have confirmed that midfielder Casemiro will be sidelined \nfor approximately eight weeks after sustaining a hamstring injury during \ntraining on Wednesday. The Brazilian midfielder will undergo surgery next \nweek and is expected to miss crucial fixtures including the FA Cup semifinal \nand several key Premier League matches.\n\nMedical staff have classified the injury as a Grade 2 hamstring tear, which \ntypically requires 6-8 weeks of recovery. Manager Erik ten Hag described the \nnews as \"a significant blow to our squad depth\" at a critical point in the \nseason. Casemiro had been in excellent form recently, starting in United's \nlast 12 consecutive matches. The club is now exploring short-term options \nin the January transfer window to cover the defensive midfield position.\n",
+  "pipeline_version": "1.0"
+}

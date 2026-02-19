@@ -1,0 +1,45 @@
+{
+  "input_id": "test_001_match_report",
+  "processed_at": "2026-02-19T14:25:54.972174",
+  "content_type": "match_report",
+  "classification": {
+    "content_type": "match_report",
+    "confidence": 0.98,
+    "reasoning": "This content provides a detailed summary of a completed Manchester United vs Liverpool match, including specific match events (goals, scorers, timing), final score, attendance figures, and post-match quotes from the manager. It's a classic post-match report covering the key highlights of the game."
+  },
+  "metadata": {
+    "teams": [
+      "Manchester United",
+      "Liverpool"
+    ],
+    "players": [
+      "Marcus Rashford",
+      "Bruno Fernandes",
+      "Mohamed Salah"
+    ],
+    "competition": "Premier League",
+    "sentiment": "positive",
+    "key_stats": {
+      "score": "2-1",
+      "goalscorers": [
+        "Marcus Rashford",
+        "Bruno Fernandes",
+        "Mohamed Salah"
+      ],
+      "attendance": "74,879",
+      "other_notable_stats": [
+        "23rd minute - Rashford goal",
+        "25-yard strike - Fernandes goal",
+        "85th minute - Salah goal",
+        "3 points gap to top four"
+      ]
+    }
+  },
+  "headlines": {
+    "neutral": "Manchester United beat Liverpool 2-1 with Rashford and Fernandes goals",
+    "fan_oriented": "Red Devils crush Liverpool 2-1 at Old Trafford!",
+    "casual_viewer": "Manchester United defeat bitter rivals Liverpool 2-1 in thrilling Premier League clash at home"
+  },
+  "original_content": "\nManchester United secured a crucial 2-1 victory over Liverpool at Old Trafford \non Saturday evening in a thrilling Premier League encounter. Marcus Rashford \nopened the scoring in the 23rd minute with a clinical finish after a brilliant \nthrough ball from Bruno Fernandes. Fernandes himself doubled the lead just \nbefore halftime with a stunning 25-yard strike. Liverpool pulled one back \nthrough Mohamed Salah in the 85th minute, but it was too little too late. \n\nThe win moves United to within three points of the top four, keeping their \nChampions League hopes alive. Manager Erik ten Hag praised his team's \nresilience, stating \"This was a statement win against one of our biggest \nrivals.\" The attendance of 74,879 witnessed one of the season's most \nimportant derby clashes.\n",
+  "pipeline_version": "1.0"
+}
