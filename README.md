@@ -1,4 +1,4 @@
-# Sports Content Pipeline
+# Content Pipeline
 
 **An AI-powered content processing system that classifies, enriches, and routes sports content at scale**
 
@@ -76,7 +76,7 @@ Rather than one monolithic prompt, we chain calls because:
 1. **Clone the repository**
    ```bash
    git clone git@github.com:Asani-A/content-pipeline.git
-   cd sports-content-pipeline
+   cd content-pipeline
    ```
 
 2. **Install dependencies**
@@ -136,7 +136,7 @@ The test suite includes **5 diverse scenarios** to prove robustness:
 ## Project Structure
 
 ```
-sports-content-pipeline/
+content-pipeline/
 ├── pipeline/
 │   ├── classifier.py      # Stage 1: Content classification
 │   ├── extractor.py       # Stage 2: Metadata extraction  
